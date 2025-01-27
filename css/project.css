@@ -5,7 +5,7 @@
 .projects-content {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 120px 20px 50px;
+    padding: 0px 20px 50px;
 }
 
 .projects-content h1 {
@@ -16,7 +16,6 @@
 }
 
 .projects-grid {
-    display: grid;
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
