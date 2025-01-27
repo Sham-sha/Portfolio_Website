@@ -1,0 +1,21 @@
+{
+  "techSkills": [
+    { "skill": "HTML5", "level": 90 },
+    { "skill": "CSS3", "level": 90 },
+    { "skill": "JavaScript (ES6+)", "level": 75 },
+    { "skill": "SQL", "level": 70 },
+    { "skill": "Python", "level": 70 },
+    { "skill": "Problem Solving", "level": 80 }
+
+  ],
+
+  "lifeSkills": [
+    { "skill": "Listening", "level": 85 },
+    { "skill": "Speaking", "level": 85 },
+    { "skill": "Reading ", "level": 75 },
+    { "skill": "Writing", "level": 75 },
+    { "skill": "Social Skills", "level": 90 },
+    { "skill": "Self Awareness and Self Management ", "level": 90 },
+    { "skill": "Adaptability and Lifelong Learning", "level": 80 }
+  ]
+}

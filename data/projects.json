@@ -1,0 +1,18 @@
+{
+    "projects": [
+      {
+        "title": "Portfolio Website V1",
+        "description": "A responsive portfolio website showcasing creative work and skills.",
+        "image": "../assets/images/projects/Portfolio.png",
+        "tools": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://sham-sha.github.io/My_Portfolio/"
+      },
+      {
+        "title": "Entreculture",
+        "description": "A collaborative task management application for teams.",
+        "image": "../assets/images/projects/Entreculture.jpg",
+        "tools": ["HTML5", "CSS3", "JavaScript", "Firebase"],
+        "link": "https://entreculture.netlify.app/"
+      }
+    ]
+  }
